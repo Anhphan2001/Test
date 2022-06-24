@@ -521,14 +521,14 @@ color: #FFFFFF;
 .plan-info-time{
 background-color: #8CC5F9;
 color: #03113F;
-font-weight: 200px;
 font-size: 19px;
 line-height: 150%;
 text-align: center;
 }
 .plan-info-sale{
-  color: #FFFFFF;
-  font-weight: 500;
+text-align: center;
+color: #FFFFFF;
+font-weight: 500;
 font-size: 13px;
 line-height: 16px;
 margin-left: 45%;
@@ -599,6 +599,7 @@ color: #FFFFFF;
   .plan-details {
     margin-bottom: 50px;
     line-height: 30px;
+    width: 100%;
    
   }
   .plan-product {
