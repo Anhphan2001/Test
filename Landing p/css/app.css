@@ -164,7 +164,7 @@ color: #18191F;
   margin-top: -100px;
 }
 .heading-small {
-  font-weight: 500;
+  font-weight: 800;
   font-size: 18px;
   margin-bottom: 5px;
   line-height: calc(30 / 18);
@@ -418,7 +418,7 @@ color: #18191F;
 .play-btn{
   margin-left: 30%;
   display: inline-flex;
-  margin-top: -100px;
+  margin-top: -150px;
   
 }
 
@@ -517,7 +517,7 @@ color: #FFFFFF;
   }
   .plan-title {
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 800;
     margin-bottom: 30px;
     color: #FFFFFF;
   }
@@ -697,7 +697,7 @@ margin-left: 10%;
 h5.subscribe-content{
   color: #0B132A;
   font-weight: 700;
-font-size: 17px;
+font-size: 20px;
 line-height: 20px;
 
 }
