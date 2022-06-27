@@ -209,6 +209,7 @@ background: #132E88;
   align-items: center;
   gap: 0 30px;
   text-transform: capitalize;
+  margin-left: 70px;
 }
 .header-signin {
   font-weight: 500;
@@ -235,7 +236,8 @@ background: #132E88;
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 0 40px;
+  gap: 0 60px;
+  margin-left: -100px;
 }
 .menu-link {
   color: #ffffff;
@@ -416,6 +418,7 @@ color: #18191F;
 .play-btn{
   margin-left: 30%;
   display: inline-flex;
+  margin-top: -100px;
   
 }
 
@@ -582,7 +585,7 @@ color: #FFFFFF;
     background: #03113F;
     color: #FFFFFF;
     text-align: center;
-    
+    width: 100%;
 
 
   }
